@@ -1,12 +1,12 @@
 # Vite + React Router DOM
 
-## 🎯 Aim
+##  Aim
 
 To create a basic single-page application (SPA) using **React** with **React Router DOM** for client-side routing and **Vite** for fast development and build tooling.
 
 ---
 
-## 🛠️ Procedure
+##  Procedure
 
 1. **Initialize Vite + React Project**
    ```bash
